@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:  black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.come{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 13%;
+    line-height: 100px;
+    color: white;
+    word-spacing: 3px;
+
+}
+
+.primary-color{
+    color: #f8c621;
+    font-size: 80px;
+    word-spacing: 3px;
+}
